@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 6792b8e57c5682e48bb84d214ff84c86
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 17f01c05156b00146827378aefcae098
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect1.unity
+    guid: 842bea6aa2aa6414c90bcefde5f8dad0
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect2.unity
+    guid: 666cf0a04acc3ff48a1bb488a275a834
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect3.unity
+    guid: 11ccc7ac10cd05e45bd3a9a5cc4b96b2
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 4eee59b49040254438384478925e49e2
+  - enabled: 1
+    path: Assets/Scenes/mudah/level1mudah.unity
+    guid: e3577aa52d984f74ba8b6f8833756ac2
+  - enabled: 1
+    path: Assets/Scenes/mudah/level2mudah.unity
+    guid: e78c18ebfc7f0fc4fac0b8036c8ae7bf
+  - enabled: 1
+    path: Assets/Scenes/mudah/level3mudah.unity
+    guid: 96ef257e584c4fa418dd1425cd063991
+  - enabled: 1
+    path: Assets/Scenes/mudah/level4mudah.unity
+    guid: f4cf21c83e353a94cbd1d12e83973a2c
+  - enabled: 1
+    path: Assets/Scenes/mudah/level5mudah.unity
+    guid: 91504760bad17cb43a35190782fd2189
+  - enabled: 1
+    path: Assets/Scenes/mudah/level6mudah.unity
+    guid: 05aa7f54e3aa5564ab354dab984e9101
+  - enabled: 1
+    path: Assets/Scenes/mudah/level7mudah.unity
+    guid: 042ad4532817dcb44863dec1e5dcf0bc
+  - enabled: 1
+    path: Assets/Scenes/mudah/level8mudah.unity
+    guid: 7a791c7b41cb1364a96a4ef10374af9d
+  - enabled: 1
+    path: Assets/Scenes/mudah/level9mudah.unity
+    guid: 81a7cd227c089974db6cfc9bdc1f32c6
+  - enabled: 1
+    path: Assets/Scenes/sedang/level1sedang.unity
+    guid: 74068aa259841444398f3a9344b6c631
+  - enabled: 1
+    path: Assets/Scenes/sedang/level2sedang.unity
+    guid: 52dcf2a841c314140b60279df9ccc2ce
+  - enabled: 1
+    path: Assets/Scenes/sedang/level3sedang.unity
+    guid: 4597705d19beeaf4a8f4a7157e6d0431
+  - enabled: 1
+    path: Assets/Scenes/sedang/level4sedang.unity
+    guid: e3e1f30d4c42357488481639594622f4
+  - enabled: 1
+    path: Assets/Scenes/sedang/level5sedang.unity
+    guid: ed231f13d5652b44ebfcd18421a97833
+  - enabled: 1
+    path: Assets/Scenes/sulit/level1sulit.unity
+    guid: bacef8fb311a7ae42b6ff5215ddeecb5
+  - enabled: 1
+    path: Assets/Scenes/sulit/level2sulit.unity
+    guid: 911eedaa8bc5fa949a5e39420f7032a7
+  - enabled: 1
+    path: Assets/Scenes/sulit/level3sulit.unity
+    guid: a7a7f6a6a6edbee43a85b84e7da639a1
+  - enabled: 1
+    path: Assets/Scenes/sulit/level4sulit.unity
+    guid: c0da11b6bbe60384b9710eb9995ac2b4
+  - enabled: 1
+    path: Assets/Scenes/sulit/level5sulit.unity
+    guid: e8ca19dce8767294a89259d2feefab12
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
