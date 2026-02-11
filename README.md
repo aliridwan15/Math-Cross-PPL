@@ -127,4 +127,4 @@ Proyek ini dikerjakan oleh tim yang beranggotakan 20 orang dengan pembagian tuga
 
 ---
 
-© 2024 MathKids Team - Proyek Perangkat Lunak.
+© 2026 MathKids Team - Proyek Perangkat Lunak.
