@@ -1,4 +1,4 @@
-# ➕ MathKids - Educational Math Puzzle Game
+## <img src="https://github.com/user-attachments/assets/61b59729-7bd6-46fa-a4c1-9b9b7101f581" alt="MathKids Logo" height="110" valign="middle"/> Educational Math Puzzle Game
 
 ![Unity](https://img.shields.io/badge/Unity-6000.0.2.72-black?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
